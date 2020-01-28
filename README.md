@@ -2,3 +2,6 @@
 my first repository in github
 
 add on branch:master
+
+add on branch:release
+
